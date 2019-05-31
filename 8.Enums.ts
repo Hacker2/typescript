@@ -26,9 +26,3 @@ enum Enum {
 }
 let a = Enum.A;
 let nameOfA = Enum[a];
-
-declare enum Enum2 {
-    A = 1,
-    B,
-    C = 2
-}
